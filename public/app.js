@@ -36,7 +36,7 @@ function setup() {
   background(0);
   // Start a socket connection to the server
   // Some day we would run this server somewhere else
-  socket = io.connect('https://fan-longhaired-jury.glitch.me');
+  socket = io.connect('https://pong-lnv1.onrender.com');
   // We make a named event called 'mouse' and write an
   // anonymous callback function
   
