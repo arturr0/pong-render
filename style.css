@@ -1,0 +1,10 @@
+@media (max-device-width: 1200px) and (orientation: landscape) {
+  #cnv {
+    max-width: 800px;
+    max-height: 600px;
+  #game {
+   max-width: 800px;
+   max-height: 600px; 
+  }
+  }
+}
